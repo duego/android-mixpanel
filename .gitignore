@@ -12,10 +12,7 @@ local.properties
 bin/
 gen/
 out/
-facebook/doc/
-facebook/lint.xml
-facebook/tests/lint.xml
-facebook/tests/assets/config.json
+src/main/.project
 .idea/workspace.xml
 .idea/dictionaries/
 .idea/inspectionProfiles/
